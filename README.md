@@ -9,7 +9,7 @@ To use Go Errors in your Go project, you need to install it using Go modules. Ru
 terminal:
 
 ```go
-go get github.com/developersgotech/go-erros
+go get github.com/developersgotech/go-error
 ```
 
 ## Usage
