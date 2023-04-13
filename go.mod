@@ -1,3 +1,1 @@
-module github.com/developersgotech/go-erros
-
-go 1.20
+module github.com/start-codex/errors
